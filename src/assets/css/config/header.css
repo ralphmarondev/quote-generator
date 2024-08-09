@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 60px;
+  width: auto;
+  height: 8vh;
+  background: #2D283D;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.logo{
+  color: aliceblue;
+}
+
+.action{
+  padding: 10px 20px;
+  background: orange;
+  border-radius: 8px;
+  cursor: pointer;
+  color: rgb(79, 21, 79);
+}
+
+.action:hover{
+  background: rgb(214, 146, 18);
+}

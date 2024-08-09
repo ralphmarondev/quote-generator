@@ -1,0 +1,8 @@
+*{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+@import url('header.css');
+@import url('footer.css');
+@import url('main.css');
+@import url('modal.css');
