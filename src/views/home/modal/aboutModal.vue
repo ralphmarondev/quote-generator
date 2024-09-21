@@ -11,7 +11,7 @@
     },
     data() {
       return {
-        githubUrl: 'https://github.com/ralphmarondev', // Your GitHub profile URL
+        githubUrl: 'https://github.com/ralphmarondev', 
       };
     },
     methods: {
